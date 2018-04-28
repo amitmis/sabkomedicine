@@ -27,6 +27,17 @@
 
 
     <link href="ab/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118346599-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118346599-1');
+</script>
+
 
 
 </head>
@@ -95,7 +106,7 @@
         We just want the support to don't let  any poor person  to die due to lack of medicines .So just a one small step from your side , can save a LIFE. And you became a Life-Saver</dd></dl><dl><dd><dt>3-How to donate Medicine?</dt>You just have to <a href="/register">sign-up</a> and specify the medicines then give the right address and  then the nearby NGO will collect the medicines from you within 2-3 days. Done you have the saved the life.</dd></dl>
     <dl><dd><dt>4- What kind of medicines can be donated?</dt>Any unexpired medicines can be donated.
         Medicines in capsules, tablets, vitamins, antibiotics, antiseptic creams, vials, bandages, cottons, energy supplements & first aid supplies etc. can be donated.
-        </dd></dl><dl><dd><dt>5-Who will handle the donated medicines?</dt>. The various government NGO's  has qualified designated panel of doctors and pharmacists to ensure proper segregation, handling, distribution and disposal of all medicines.</dd></dl><dl><dd><dt>6-What kind of medicines can’t be collected?
+        </dd></dl><dl><dd><dt>5-Who will handle the donated medicines?</dt>. The various government NGO's  has qualified designated panel of doctors and pharmacists to ensure proper segregation, handling, distribution and disposal of all medicines.</dd></dl><dl><dd><dt>6-What kind of medicines canâ€™t be collected?
 
         </dt> Any medicines already expired cannot be donated.<ul><li>Syringes, Syrup & liquid medicines are not to be collected due to chances of breakage & leakage thus avoiding any damage to other medicines</li><li>Unsealed or open bottles of liquid drugs also cannot be donated.</li><li>Do not donate pet medicines and any other infectious waste.
             </li></ul></dd></dl>
