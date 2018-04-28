@@ -208,11 +208,23 @@
                         <li><a
                                     href="/faq">FAQ</a></li>
                     </ul>
+
+                </div>
+                <div class="row">
+                    <p>---------------------------------------------------</p>
+
+
+                    <p>Made with <i class="heart icon-heart"></i> in Philippines</p>
                 </div>
 
 
+
                 <div class="clearfix"> </div>
+
+
+
             </div>
+
 
         </div>
     </div>

@@ -106,7 +106,7 @@
                     <a href='/login' class='btn btn-primary btn-xl outline'  >DONATE</a>
             @else
                  <a href='/home' class='btn btn-primary btn-xl outline'  >DONATE</a>
-            @endifssh
+            @endif
 
 
             </div>

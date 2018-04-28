@@ -57,8 +57,8 @@
                     <ul class="nav navbar-nav navbar-right">
                         <!-- Authentication Links -->
                         @if (Auth::guest())
-                            <li class="active"><a href="{{ url('/login') }}" >Login</a></li>
-                            <li><a href="{{ url('/register') }}" class="hvr-bounce-to-bottom">Register</a></li>
+                            <li ><a href="{{ url('/login') }}" class="hvr-bounce-to-bottom" >Login</a></li>
+                            <li class="active"><a href="{{ url('/register') }}" >Register</a></li>
                         @else
 
                             <li class="dropdown " style="color: #00AFF0">
